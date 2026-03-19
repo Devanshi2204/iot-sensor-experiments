@@ -34,3 +34,8 @@ Procedure:
 
 Observation:
 Outputs matched the expected truth table of the logic gates.
+
+## Demo video
+https://drive.google.com/file/d/1okxvCAKKPPwdMy8GmV2J27WWZ-3Iz2MR/view?usp=sharing
+https://drive.google.com/file/d/1w5kZLGn5OErigUNIGIvnlN98pO8mWBDo/view?usp=sharing
+https://drive.google.com/file/d/1vaQFOtXp0ig026T_MwvzP9e6mubAPDjK/view?usp=sharing
